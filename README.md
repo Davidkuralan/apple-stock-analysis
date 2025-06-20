@@ -85,7 +85,7 @@ apple.dividends.plot(title='Apple Dividends Over Time')
 **Thirukkuralan**  
 _Aspiring Data Analyst | IBM Certified | Python & SQL Enthusiast_
 
-🔗 [Connect with me on LinkedIn](www.linkedin.com/in/thirukkuralan-data-analyst)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/thirukkuralan-data-analyst)   
 📂 [Check out more projects in my GitHub Portfolio](https://github.com/Davidkuralan)
 
 ---
